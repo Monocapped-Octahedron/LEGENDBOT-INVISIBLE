@@ -22,7 +22,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monocapped-Octahedron/LEGENDBOT-INVISIBLE)
 
 <h4> Deploy Coming Soon </h4>
 
